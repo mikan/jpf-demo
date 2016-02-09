@@ -1,0 +1,34 @@
+\contentsline {section}{\numberline {1}背景}{3}
+\contentsline {section}{\numberline {2}JPF の機能と特徴}{3}
+\contentsline {subsection}{\numberline {2.1}JPF とは何か}{3}
+\contentsline {subsection}{\numberline {2.2}JPF の動作原理}{4}
+\contentsline {subsection}{\numberline {2.3}JPF の主要機能}{5}
+\contentsline {subsubsection}{\numberline {2.3.1}ハンドルされない例外・エラーの検出}{5}
+\contentsline {subsubsection}{\numberline {2.3.2}デッドロック検出}{7}
+\contentsline {subsubsection}{\numberline {2.3.3}データ競合の検出}{9}
+\contentsline {subsubsection}{\numberline {2.3.4}その他の機能}{11}
+\contentsline {section}{\numberline {3}アプローチ}{11}
+\contentsline {subsection}{\numberline {3.1}JPF の問題点}{11}
+\contentsline {subsection}{\numberline {3.2}スタブによる解決手法}{11}
+\contentsline {subsection}{\numberline {3.3}I/O キャッシュによる解決手法}{12}
+\contentsline {paragraph}{新しい状態}{12}
+\contentsline {paragraph}{バックトラック}{12}
+\contentsline {paragraph}{続きの探索}{13}
+\contentsline {section}{\numberline {4}適用実験}{13}
+\contentsline {subsection}{\numberline {4.1}適用対象}{13}
+\contentsline {subsection}{\numberline {4.2}実験環境}{14}
+\contentsline {subsection}{\numberline {4.3}適用手順}{14}
+\contentsline {subsubsection}{\numberline {4.3.1}適用方針}{14}
+\contentsline {subsubsection}{\numberline {4.3.2}クライアントプログラムの改変}{15}
+\contentsline {subsubsection}{\numberline {4.3.3}サーバプログラムの改変}{17}
+\contentsline {subsection}{\numberline {4.4}実験内容と結果}{18}
+\contentsline {subsubsection}{\numberline {4.4.1}出力結果}{18}
+\contentsline {subsubsection}{\numberline {4.4.2}実行時間及び状態数の変化}{18}
+\contentsline {subsubsection}{\numberline {4.4.3}I/O キャッシュにおけるヒット率}{19}
+\contentsline {section}{\numberline {5}考察}{20}
+\contentsline {subsection}{\numberline {5.1}JPF 及び net-iocache の有用性について}{20}
+\contentsline {subsection}{\numberline {5.2}適用対象の分析結果について}{20}
+\contentsline {subsection}{\numberline {5.3}組合わせ爆発の問題について}{21}
+\contentsline {subsection}{\numberline {5.4}より高度な検査について}{22}
+\contentsline {section}{\numberline {6}まとめ}{22}
+\contentsline {section}{\numberline {7}謝辞}{22}

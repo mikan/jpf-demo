@@ -1,0 +1,3 @@
+target = com.github.mikan.demo.jpf.exception.StopWatch
+listener = .listener.StopWatchFuzzer
+classpath=bin

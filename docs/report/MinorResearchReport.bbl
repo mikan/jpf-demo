@@ -1,0 +1,45 @@
+\begin{thebibliography}{1}
+
+\bibitem{DBLP:conf/rv/Artho10}
+Cyrille~Valentin Artho.
+\newblock Run-time verification of networked software.
+\newblock In {\em RV}, pp. 59--73, 2010.
+
+\bibitem{DBLP:conf/kbse/ArthoLHTY09}
+Cyrille Artho, Watcharin Leungwattanakit, Masami Hagiya, Yoshinori Tanabe, and
+  Mitsuharu Yamamoto.
+\newblock Cache-based model checking of networked applications: From linear to
+  branching time.
+\newblock In {\em ASE}, pp. 447--458, 2009.
+
+\bibitem{JPF}
+NASA Ames~Research Center.
+\newblock Java {Path}{Finder}, 2012.
+\newblock \\ http://babelfish.arc.nasa.gov/trac/jpf.
+
+\bibitem{DBLP:journals/csur/Holt72}
+Richard~C. Holt.
+\newblock Some deadlock properties of computer systems.
+\newblock {\em ACM Comput. Surv.}, Vol.~4, No.~3, pp. 179--196, 1972.
+
+\bibitem{DBLP:journals/csur/CoffmanES71}
+Edward G.~Coffman Jr., M.~J. Elphick, and Arie Shoshani.
+\newblock System deadlocks.
+\newblock {\em ACM Comput. Surv.}, Vol.~3, No.~2, pp. 67--78, 1971.
+
+\bibitem{TIOBE}
+TIOBE Software.
+\newblock Tiobe programming community index, 2012.
+\newblock \\ http://www.tiobe.com/index.php/content/paperinfo/tpci/index.html.
+
+\bibitem{MOS2}
+Andrew~S. Tanenbaum.
+\newblock モダンオペレーティングシステム 原著第２版.
+\newblock ピアソン・エデュケーション, 2004.
+
+\bibitem{JavaTGP}
+Jim Waldo.
+\newblock {\em Java: The Good Parts}.
+\newblock オライリー・ジャパン, 2011.
+
+\end{thebibliography}
