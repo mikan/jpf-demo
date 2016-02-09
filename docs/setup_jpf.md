@@ -54,8 +54,7 @@ JPF をセットアップする
 今回は jpf-core だけなので、以下の 2 行で良い (jpf-core の値は実際に clone した場所を指定すること)。
 
 ```
-jpf-core = ${user.home}/projects/jpf/jpf-core
-#extensions=${jpf-core},${jpf-aprop}
+jpf-core=${user.home}/projects/jpf/jpf-core
 extensions=${jpf-core}
 ```
 
