@@ -1,7 +1,7 @@
 MIKAN'S JPF DEMO CODES
 ======================
 
-拙いデモコードと執筆したドキュメントの詰め合わせです。
+JPF (Java Path Finder) の拙いデモコードと執筆したドキュメントの詰め合わせです。
 
 #### デモ一覧
 
@@ -12,7 +12,7 @@ MIKAN'S JPF DEMO CODES
 #### ドキュメント一覧
 
 * [JPF をセットアップする](docs/setup_jpf.md) - Markdown で書いた簡易導入手順 (超投げやり)
-* [JPF を適用可能な Java プログラムの構成法に関する実験と考察](docs/report/MinorResearchReport-YutakaKato.pdf) [PDF] - JAIST 副テーマ研究報告
+* [JPF を適用可能な Java プログラムの構成法に関する実験と考察](docs/report/MinorResearchReport.pdf) [PDF] - JAIST 副テーマ研究報告
 
 #### リンク集
 
