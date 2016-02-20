@@ -1,0 +1,5 @@
+# Deadlock Detection (Randomize with no emulation)
+target = com.github.mikan.demo.jpf.deadlock.DeadlockWithRandom
+report.console.property_violation=error,trace
+cg.enumerate_random=false
+classpath=bin

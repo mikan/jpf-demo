@@ -1,0 +1,4 @@
+# Random Control
+target = com.github.mikan.demo.jpf.random.Randomize
+cg.enumerate_random=true
+classpath=bin

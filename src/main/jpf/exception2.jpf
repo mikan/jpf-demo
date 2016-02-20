@@ -1,3 +1,4 @@
+# Exception Handling Detection by Racer
 target = com.github.mikan.demo.jpf.datarace.Racer
 report.console.property_violation=error,trace
 classpath=bin
