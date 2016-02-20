@@ -13,12 +13,12 @@ package com.github.mikan.demo.jpf.exception;
 public class StopWatch {
 
 	public static void main(String[] args) {
-		long tBegin = System.currentTimeMillis();
+		long begin = System.currentTimeMillis();
 		System.out.println("すぐに終わる処理をしています");
-		long tEnd = System.currentTimeMillis();
-		if (tEnd - tBegin > 10 * 10 * 10) {
-			throw new RuntimeException("すげー時間かかった！");
+		long elapsed = System.currentTimeMillis() - begin;
+		if (elapsed > 1000) {
+			throw new RuntimeException("すげー時間かかった！ (" + elapsed + "ms)");
 		}
-		System.out.println("すぐ終わった");
+		System.out.println("すぐ終わった (" + elapsed + "ms)");
 	}
 }

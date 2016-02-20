@@ -1,3 +1,4 @@
+# Deadlock Detection (Simple)
 target = com.github.mikan.demo.jpf.deadlock.Deadlock
 report.console.property_violation=error,trace
 classpath=bin

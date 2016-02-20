@@ -33,7 +33,7 @@ public class DeadlockWithRandom {
 		public void run() {
 			String name = Thread.currentThread().getName();
 			while (!isInterrupted()) {
-				Object first = random.nextBoolean() ? resourceA : resourceB;
+				Object first = random.nextBoolean() ? resourceA : resourceB; // どっちが先か分からない
 				Object second = first == resourceA ? resourceB : resourceA;
 				synchronized (first) {
 					System.out.println("[" + name + "]第一資源もぐもぐ");
